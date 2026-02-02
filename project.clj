@@ -1,6 +1,6 @@
 (defproject com.pxshot/pxshot "0.1.0"
   :description "Official Clojure SDK for the Pxshot screenshot API"
-  :url "https://github.com/pxshot/pxshot-clojure"
+  :url "https://github.com/faiscadev/pxshot-clojure"
   :license {:name "MIT"
             :url "https://opensource.org/licenses/MIT"}
 
@@ -19,4 +19,4 @@
                                     :sign-releases false}]]
 
   :scm {:name "git"
-        :url "https://github.com/pxshot/pxshot-clojure"})
+        :url "https://github.com/faiscadev/pxshot-clojure"})
